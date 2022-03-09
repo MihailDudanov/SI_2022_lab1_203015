@@ -2,5 +2,6 @@ milk x 2
 eggs x 4
 flour x 2
 oil x 2
+salt x 4
 sugar x 4
 bread x 4
