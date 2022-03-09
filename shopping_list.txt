@@ -1,5 +1,5 @@
-milk
-eggs
-flour
-oil
-sugar
+milk x 2
+eggs x 3
+flour x 2
+oil x 2
+sugar x 4
