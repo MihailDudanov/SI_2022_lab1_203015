@@ -20,3 +20,38 @@ Author: MihailDudanov <101207356+MihailDudanov@users.noreply.github.com>
 Date:   Wed Mar 9 16:48:05 2022 +0100
 
     Create README.md
+
+
+///////////////////////////////////////////////////////////////////////////////
+Втор Лог
+
+Author: MihailDudanov <mihaildudanov@live.com>
+Date:   Wed Mar 9 18:18:38 2022 +0100
+
+    Modify item #4
+
+commit 7578d180cdef5e3ca1e1f58da56c16d181ee9add
+Author: MihailDudanov <mihaildudanov@live.com>
+Date:   Wed Mar 9 17:04:24 2022 +0100
+
+    Add quantities to the items
+
+commit 14c6498aeae0857bdf6a31b5009d1316b42604ec
+Author: MihailDudanov <mihaildudanov@live.com>
+Date:   Wed Mar 9 16:59:58 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 46b7674e9ebf2440591e54755113bf246ab4a0e4
+Author: MihailDudanov <mihaildudanov@live.com>
+Date:   Wed Mar 9 16:58:29 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 5981343f4d053178660470326dde01f603607415
+Author: MihailDudanov <101207356+MihailDudanov@users.noreply.github.com>
+Date:   Wed Mar 9 16:48:05 2022 +0100
+
+    Create README.md
+/////////////////////////////////////////////////////////////////////////////
+
