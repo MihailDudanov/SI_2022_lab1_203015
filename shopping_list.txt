@@ -1,5 +1,5 @@
 milk x 2
-eggs x 3
+eggs x 4
 flour x 2
 oil x 2
 salt x 4
