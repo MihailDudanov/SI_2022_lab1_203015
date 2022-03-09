@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42d88be2-3828-4df5-a414-434c8939fc7f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="269gdoG2fIrnWtE74UpZgAPdpqU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d88be2-3828-4df5-a414-434c8939fc7f" name="Changes" comment="" />
+      <created>1646841311863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646841311863</updated>
+      <workItem from="1646841314194" duration="1212000" />
+      <workItem from="1646845689495" duration="338000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add 5 items to the shopping list">
+      <created>1646841509534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646841509534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add 5 items to the shopping list">
+      <created>1646841598746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646841598746</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add quantities to the items">
+      <created>1646841864511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646841864511</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change quantity of item #5">
+      <created>1646845616383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646845616383</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change quantity of item #2">
+      <created>1646845718815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646845718815</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add 5 items to the shopping list" />
+    <MESSAGE value="Add quantities to the items" />
+    <MESSAGE value="Change quantity of item #5" />
+    <MESSAGE value="Change quantity of item #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change quantity of item #2" />
+  </component>
+</project>
